@@ -42,8 +42,13 @@ kawawa/
 │  ├─ content.css    # Xに注入するスタイル
 │  └─ icons/         # 拡張アイコン (16/48/128px)
 ├─ README.md         # このファイル
+├─ PRIVACY.md        # プライバシーポリシー
 └─ LICENSE           # MITライセンス
 ```
+
+## プライバシー
+
+本拡張機能は外部通信・データ収集を一切行いません。詳細は [PRIVACY.md](./PRIVACY.md) を参照してください。
 
 ## ライセンス
 
