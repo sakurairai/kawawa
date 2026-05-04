@@ -1,0 +1,20 @@
+html,
+body,
+body *:not(svg):not(path):not(script):not(style):not([class*="icon"]):not([class*="Icon"]) {
+  font-family:
+    "Comic Sans MS",
+    "Comic Sans",
+    "Arial Rounded MT Bold",
+    "Hiragino Maru Gothic ProN",
+    "Hiragino Maru Gothic Pro",
+    "Meiryo",
+    "Yu Gothic",
+    "Noto Sans JP",
+    "Noto Sans CJK JP",
+    cursive,
+    sans-serif !important;
+
+  font-weight: 700 !important;
+  letter-spacing: .06em !important;
+  text-shadow: .25px .25px 0 currentColor !important;
+}
